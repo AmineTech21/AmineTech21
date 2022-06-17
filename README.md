@@ -15,7 +15,7 @@ I'm specialize in :
  - Typescript
 
 
-I'm super motivated, I like to work on new projects and I'm open to any propositions !!!
+I'm super motivated, I like to work on ambitious projects and I'm open to any propositions !!!
 
 
 
