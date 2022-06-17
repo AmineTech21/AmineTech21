@@ -16,7 +16,14 @@ I'm super motivated, I like to work on ambitious projects and I'm open to any pr
 
 - 👨‍💻 All of my projects are available at [https://aminewebsite.com](https://aminewebsite.com)
 
-- 💬 Ask me about **✔️ React, Node.js, Next.js, ExpressJS ✔️ Redux, Context Api, Recoil ✔️ JavaScript, TypeScript ✔️ HookAPI, Rest API, Jest ✔️ MongoDB, MySQL, PostgreSQL, Firebase ✔️ HTML5, CSS3, SCSS, SASS ✔️ BootStrap, Material-UI, Chakra UI, Tailwind CSS**
+- 💬 Ask me about : **
+✔️ React, Node.js, Next.js, ExpressJS 
+✔️ Redux, Context Api, Recoil 
+✔️ JavaScript, TypeScript 
+✔️ HookAPI, Rest API, Jest 
+✔️ MongoDB, MySQL, PostgreSQL, Firebase 
+✔️ HTML5, CSS3, SCSS, SASS 
+✔️ BootStrap, Material-UI, Chakra UI, Tailwind CSS**
 
 - 📫 How to reach me **aminewebdeveloper@gmail.com**
 
