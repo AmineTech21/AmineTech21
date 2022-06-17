@@ -30,21 +30,10 @@ I'm super motivated, I like to work on ambitious projects and I'm open to any pr
 - ⚡ Fun fact **I'm a digital nomad developer living on a tiny island 🏝️!**
 
 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmineTech21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/AmineTech21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aminetech21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AmineTech21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>]("")  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>]("")  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>]("")  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineTech21&show_icons=true)  
-
-<h1 align="center">Hi 👋, I'm Amine</h1>
-<h3 align="center">A Full Stack Developer ReactJs NodeJs</h3>
-
-- 👨‍💻 All of my projects are available at [https://aminewebsite.com](https://aminewebsite.com)
-
-- 💬 Ask me about **✔️ React, Node.js, Next.js, ExpressJS ✔️ Redux, Context Api, Recoil ✔️ JavaScript, TypeScript ✔️ HookAPI, Rest API, Jest ✔️ MongoDB, MySQL, PostgreSQL, Firebase ✔️ HTML5, CSS3, SCSS, SASS ✔️ BootStrap, Material-UI, Chakra UI, Tailwind CSS**
-
-- 📫 How to reach me **aminewebdeveloper@gmail.com**
-
-- ⚡ Fun fact **I'm a digital nomad developer living on a tiny island 🏝️!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
