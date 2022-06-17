@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A Full Stack Developer ReactJs NodeJs</h3>
-![Web developper](https://cdn.mos.cms.futurecdn.net/gcV83ChaswQwxGAVw5osyK-1200-80.jpg)
-
 
 I’m a full stack web developer specialized in ReactJS and NodeJs.I have a good experience working with big startups in Canada and working with clients all around the world. I have a passion to solve problems and I love to work on new projects and revolutionary ideas .
 
