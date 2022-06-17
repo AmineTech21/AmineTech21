@@ -1,8 +1,7 @@
-### Hi there 👋, AmineTech21
-#### Web developper
+<h1 align="center">Hi 👋, I'm Amine</h1>
+<h3 align="center">A Full Stack Developer ReactJs NodeJs</h3>
 ![Web developper](https://cdn.mos.cms.futurecdn.net/gcV83ChaswQwxGAVw5osyK-1200-80.jpg)
 
-<h2>Full stack developer ReactJs NodeJs</h2>
 
 I’m a full stack web developer specialized in ReactJS and NodeJs.I have a good experience working with big startups in Canada and working with clients all around the world. I have a passion to solve problems and I love to work on new projects and revolutionary ideas .
 
@@ -16,6 +15,14 @@ I'm specialize in :
 
 
 I'm super motivated, I like to work on ambitious projects and I'm open to any propositions !!!
+
+- 👨‍💻 All of my projects are available at [https://aminewebsite.com](https://aminewebsite.com)
+
+- 💬 Ask me about **✔️ React, Node.js, Next.js, ExpressJS ✔️ Redux, Context Api, Recoil ✔️ JavaScript, TypeScript ✔️ HookAPI, Rest API, Jest ✔️ MongoDB, MySQL, PostgreSQL, Firebase ✔️ HTML5, CSS3, SCSS, SASS ✔️ BootStrap, Material-UI, Chakra UI, Tailwind CSS**
+
+- 📫 How to reach me **aminewebdeveloper@gmail.com**
+
+- ⚡ Fun fact **I'm a digital nomad developer living on a tiny island 🏝️!**
 
 
 
