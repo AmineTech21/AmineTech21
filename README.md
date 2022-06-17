@@ -2,10 +2,18 @@
 #### Web developper
 ![Web developper](https://cdn.mos.cms.futurecdn.net/gcV83ChaswQwxGAVw5osyK-1200-80.jpg)
 
-I’m Amine and I am currently learning programmation I’ve started in august 2021 and I think that I’m going to be a really good software engineer ! If you don’t believe me I suggest you to follow me on my social media and see my progression !
- Believe me you will not regret it !
+I’m a full stack web developer specialized in ReactJS and NodeJs.I have a good experience working with big startups in Canada and working with clients all around the world. I have a passion to solve problems and I love to work on new projects and revolutionary ideas .
 
-Skills: JS / HTML / CSS
+I like to make the dreams of peoples reality ! If you have any project you want to realise or if you have any need don't hesitate to contact me I would be more than happy to help you .
+
+I'm specialize in :
+ - MERN stack (mongoDB, Express, React, NodeJs) 
+ - PERN stack (PostgreSQL, Express, React, NodeJs)
+ - NextJs
+ - Typescript
+
+
+I'm super motivated, I like to work on new projects and I'm open to any propositions !!!
 
 
 
