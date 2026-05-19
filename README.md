@@ -9,7 +9,7 @@
 
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Amine, a Canadian Developer lost on an island in Indonesia 👋🏼:
+ Hello World!, I'm Amine, a Canadian Developer lost on an island in Indonesia 🏝️:
 
 
 # 💻 Tech Stack:
